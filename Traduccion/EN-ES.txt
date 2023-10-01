@@ -1,0 +1,3 @@
+EN = ES = Gat
+EN = ES = Hello
+EN = ES = laptop

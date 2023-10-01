@@ -1,0 +1,3 @@
+ES = EN = Gato
+ES = EN = Hola
+ES = EN = Computadora portatil
